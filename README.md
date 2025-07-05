@@ -1,36 +1,27 @@
-<!-- Animated Banner via Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=15F4EE&center=true&vCenter=true&repeat=true&width=1000&lines=🚀+Welcome+to+Ameer+Nadaf's+GitHub+Portfolio;Embedded+Systems+%7C+CAN+Simulations+%7C+Breadboard+Projects+%7C+Firmware+Design+🚀" alt="Welcome Banner" />
-</p>
+# 💫 About Me:
+I am a E&C student at KLE TECHNOLOGICAL UNIVERSITY Hubli.<br>I am interested in domains like coding, automotive, communication 
 
-<h1 align="center">Hi, I'm Ameer Nadaf 👨‍💻</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&vCenter=true&width=440&lines=Embedded+Systems+Engineer;Digital+Design+Creator;CAN+Bus+Simulator+Expert;GitHub+Project+Showcase+Below👇" alt="Typing SVG" />
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_ameernadaf17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ameernadaf17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AmirsohelNadaf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameernadaf640@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Amirsohel Nadaf&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Amirsohel Nadaf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirsohel Nadaf&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Amirsohel Nadaf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Amirsohel Nadaf&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Amirsohel Nadaf&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔥 My Featured Projects
-
-<div align="center">
-  
-| Project | Description | Link |
-|--------|-------------|------|
-| 🚀 Universal Shift Register Breadboard | Simulation + OP1/OP2 + Presentation files for universal shift register experiments on breadboard | [Repo](https://github.com/AMEERJDRO/universal-shift-register-breadboard) |
-| 📘 DSA- | Data Structures & Algorithms Collection – Clean and Practical | [Repo](https://github.com/AMEERJDRO/DSA-) |
-
-</div>
-
----
-
-### 🧠 About Me
-
-```yaml
-Name: Ameer Nadaf
-Role: Electronics Engineer / Embedded Systems
-Hobbies: Project Simulations, CAN Bus, UI Dashboards
-Strengths:
-  - 💡 Real-time Embedded Design
-  - 🧠 Simulation + Visual Thinking
-  - 📊 GitHub Wizardry
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
